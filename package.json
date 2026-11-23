@@ -1,0 +1,8 @@
+{
+  "name": "warrior-otp-api",
+  "private": true,
+  "version": "3.3.0",
+  "type": "module",
+  "scripts": {"dev": "vercel dev"},
+  "dependencies": {"@upstash/redis": "^1.35.3"}
+}
